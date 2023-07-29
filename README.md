@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Kapture 2023-07-29 at 19.40.33.gif' width='' alt='Video Walkthrough' />
+<img src='Kapture 2023-07-29 at 19.40.33.gif' width='400' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
