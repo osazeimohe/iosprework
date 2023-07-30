@@ -1,6 +1,6 @@
 # Prework - *Intro App*
 
-Submitted by: **Intro App**
+Submitted by: **Osaze Imohe**
 
 **Name of your app** is an app that displays my name, college, career, and changes background color when a button is clicked
 
